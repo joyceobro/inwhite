@@ -7,6 +7,7 @@ tags:
   - LLM
   - Gemma
   - 한국어 파인튜닝
+layout: categories
 ---
 
 ## 실험 요약
@@ -19,3 +20,7 @@ tags:
 코드:
 ```python
 model = AutoModelForCausalLM.from_pretrained(...)
+
+
+
+
